@@ -1,6 +1,6 @@
 package perulangan;
 
-public class While {
+public class whileee {
     public static void main(String[] args) {
         int isiGelas = 0;
         int penuh = 225;
