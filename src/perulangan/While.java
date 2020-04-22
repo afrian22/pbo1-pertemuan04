@@ -11,8 +11,8 @@ public class While {
         while (isiGelas != penuh){
             isiGelas++;
             System.out.println("Sedang Mengisi Gelas..");
-            System.out.println("Isi Gelas Sekarang : " + isiGelas "m1");
+            System.out.println("Isi Gelas Sekarang : " + isiGelas + "m1");
         }
-        System.out.println("Finale: Isi Gelas Sekarang : " +  isiGelas "m1");
+        System.out.println("Finale: Isi Gelas Sekarang : " +  isiGelas + "m1");
     }
 }
