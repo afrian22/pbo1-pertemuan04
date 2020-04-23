@@ -16,6 +16,6 @@ public class arrayyy {
                 mataKuliah[7] = "Visual1";
                 mataKuliah[8] = "Web2";
                 mataKuliah[9] = "SOSBUD";
-        }
+
     }
 }
